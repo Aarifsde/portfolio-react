@@ -1,6 +1,5 @@
 import React from 'react'
 import {BsFillPersonLinesFill} from 'react-icons/bs'
-import {Link} from 'react-scroll'
 
 const Home = () => {
   return (
@@ -15,7 +14,7 @@ const Home = () => {
             more info (Click resume!) .</p>
 
             <div>
-              <a href="https://drive.google.com/file/d/1PMr7M5n9pNYYnJ62CDm2WOKIVW66o08I/view?usp=drivesdk" target='_blank'>
+              <a href="https://drive.google.com/file/d/1PMr7M5n9pNYYnJ62CDm2WOKIVW66o08I/view?usp=drivesdk" target='_blank' rel="noreferrer">
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-500 hover:border-pink-500'> Resume
                 <span className='group'>
                 <BsFillPersonLinesFill  className='ml-3' />

@@ -7,7 +7,7 @@ const Work = () => {
         <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-500'>Work</p>
-                <p className='py-6'>// Check out my recent work</p>
+                <p className='py-6'>/// Check out my recent work</p>
             </div>
          {/* container */}
             <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
@@ -22,7 +22,7 @@ const Work = () => {
                        </span>
 
                        <div className='pt-8 text-center'>
-                        <a href="https://experiencetouraarif.netlify.app/" target='_blank'>
+                        <a href="https://experiencetouraarif.netlify.app/" target='_blank' rel="noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                         </a>
                         <a href="/">
