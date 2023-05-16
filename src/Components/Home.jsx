@@ -10,8 +10,7 @@ const Home = () => {
             <p className='text-pink-600'>Hi, my name is</p>
             <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Aarif A</h1>
             <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Frontend Developer.</h2>
-            <p className='text-[#8892b0] py-4 max-w-[700px] text-[70%] font-semibold'>I am a Fresher Front-end web Developer who has been learning for past 5 months. And I love to designing and developing a User Interface. Now i'm currently seek a job. For
-            more info (Click resume!) .</p>
+            <p className='text-[#8892b0] py-4 max-w-[700px] text-[70%] font-semibold'>I am a Front-end web Developer who has been learning for past 5 months. I love to design and develop various react applications. For more info (Click resume!).</p>
 
             <div>
               <a href="https://drive.google.com/file/d/1PMr7M5n9pNYYnJ62CDm2WOKIVW66o08I/view?usp=drivesdk" target='_blank' rel="noreferrer">
