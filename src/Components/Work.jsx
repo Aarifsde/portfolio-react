@@ -1,5 +1,6 @@
 import React from 'react'
 import WorkImg from '../Assets/Projects/project.png'
+import WorkImg2 from '../Assets/Projects/NetMovie.png'
 
 const Work = () => {
   return (
@@ -26,6 +27,25 @@ const Work = () => {
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                         </a>
                         <a href="https://github.com/Aarifsde/crypto-base" target='_blank' rel="noreferrer">
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
+                        </a>
+                       </div>
+                    </div>
+                </div>
+
+                <div style={{backgroundImage:`url(${WorkImg2})`}}  className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+
+                    {/* hover eff */}
+                    <div className='opacity-0 group-hover:opacity-100 '>
+                       <span className='text-2xl font-bold text-white tracking-wider'>
+                         Netflix-Clone React JS
+                       </span>
+
+                       <div className='pt-8 text-center'>
+                        <a href="https://netmovie-aarif.netlify.app/" target='_blank' rel="noreferrer">
+                            <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
+                        </a>
+                        <a href="https://github.com/Aarifsde/Aarifsde-netflix-clone" target='_blank' rel="noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                        </div>
