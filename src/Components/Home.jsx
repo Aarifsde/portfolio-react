@@ -13,7 +13,7 @@ const Home = () => {
             <p className='text-[#8892b0] py-4 max-w-[700px] text-[70%] font-semibold'>I am a Front-end web Developer who has been learning for past 5 months. I love to design and develop various react applications. For more info (Click resume!).</p>
 
             <div>
-              <a href="https://drive.google.com/file/d/1SCba-FGA4p7ik09DyUqoI3Wa8naeXLXT/view?usp=drivesdk" target='_blank' rel="noreferrer">
+              <a href="https://drive.google.com/file/d/1tHqz_Q6dIlPCnwJVaD3ZiIAvEnjlPj__/view?usp=drivesdk" target='_blank' rel="noreferrer">
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-500 hover:border-pink-500'> Resume
                 <span className='group'>
                 <BsFillPersonLinesFill  className='ml-3' />
