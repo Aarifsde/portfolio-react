@@ -1,6 +1,6 @@
 import React from 'react'
 import WorkImg from '../Assets/Projects/project.png'
-import WorkImg2 from '../Assets/Projects/NetMovie.png'
+import WorkImg2 from '../Assets/Projects/NetMovie.jpg'
 
 const Work = () => {
   return (
