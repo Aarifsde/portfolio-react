@@ -38,14 +38,14 @@ const Work = () => {
                     {/* hover eff */}
                     <div className='opacity-0 group-hover:opacity-100 '>
                        <span className='text-2xl font-bold text-white tracking-wider'>
-                         Netflix-Clone React JS
+                         E-Commerce JS
                        </span>
 
                        <div className='pt-8 text-center'>
-                        <a href="https://netmovie-aarif.netlify.app/" target='_blank' rel="noreferrer">
+                        <a href="https://aarif-ecommerce.netlify.app/" target='_blank' rel="noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Live</button>
                         </a>
-                        <a href="https://github.com/Aarifsde/Aarifsde-netflix-clone" target='_blank' rel="noreferrer">
+                        <a href="https://github.com/Aarifsde/e-commerce" target='_blank' rel="noreferrer">
                             <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                         </a>
                        </div>
